@@ -1,5 +1,6 @@
-# P-O
+# PO
 PROJETO DE PROGRAMAÇÃO ORIENTADA A OBJETOS (2º ANO - 1º SEMESTRE)
+
 Desenvolvimento de um sistema de gestão de uma Mediateca.
 
 Linguagem: Java 
